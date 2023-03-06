@@ -1,5 +1,5 @@
-import React from 'react';
-import Card from './Card';
+import React from 'react'
+import Card from './Card'
 
 const CardList = ({ robots }) => {
   return (
@@ -12,10 +12,10 @@ const CardList = ({ robots }) => {
             name={robot.name}
             email={robot.email}
           />
-        );
+        )
       })}
     </div>
-  );
-};
+  )
+}
 
-export default CardList;
+export default CardList
