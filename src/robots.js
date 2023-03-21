@@ -1,62 +1,62 @@
 export const robots = [
   {
-    id: 11,
+    id: 10,
     name: 'Leanne Graham',
     username: 'Bret',
-    email: 'Sincere@april.biz',
+    email: 'Sincere@april.biz'
   },
   {
-    id: 22,
+    id: 20,
     name: 'Ervin Howell',
     username: 'Antonette',
-    email: 'Shanna@melissa.tv',
+    email: 'Shanna@melissa.tv'
   },
   {
-    id: 33,
+    id: 30,
     name: 'Clementine Bauch',
     username: 'Samantha',
-    email: 'Nathan@yesenia.net',
+    email: 'Nathan@yesenia.net'
   },
   {
-    id: 44,
+    id: 40,
     name: 'Patricia Lebsack',
     username: 'Karianne',
-    email: 'Julianne.OConner@kory.org',
+    email: 'Julianne.OConner@kory.org'
   },
   {
-    id: 55,
+    id: 50,
     name: 'Chelsey Dietrich',
     username: 'Kamren',
-    email: 'Lucio_Hettinger@annie.ca',
+    email: 'Lucio_Hettinger@annie.ca'
   },
   {
-    id: 66,
+    id: 60,
     name: 'Mrs. Dennis Schulist',
     username: 'Leopoldo_Corkery',
-    email: 'Karley_Dach@jasper.info',
+    email: 'Karley_Dach@jasper.info'
   },
   {
-    id: 77,
+    id: 70,
     name: 'Kurtis Weissnat',
     username: 'Elwyn.Skiles',
-    email: 'Telly.Hoeger@billy.biz',
+    email: 'Telly.Hoeger@billy.biz'
   },
   {
-    id: 88,
+    id: 80,
     name: 'Nicholas Runolfsdottir V',
     username: 'Maxime_Nienow',
-    email: 'Sherwood@rosamond.me',
+    email: 'Sherwood@rosamond.me'
   },
   {
-    id: 99,
+    id: 90,
     name: 'Glenna Reichert',
     username: 'Delphine',
-    email: 'Chaim_McDermott@dana.io',
+    email: 'Chaim_McDermott@dana.io'
   },
   {
-    id: 111,
+    id: 100,
     name: 'Clementina DuBuque',
     username: 'Moriah.Stanton',
-    email: 'Rey.Padberg@karina.biz',
-  },
+    email: 'Rey.Padberg@karina.biz'
+  }
 ];
